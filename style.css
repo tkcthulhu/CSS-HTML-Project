@@ -1,7 +1,33 @@
+body {
+    background-color: gainsboro;
+    border-width: 10px;
+    border-style: dashed double;
+    border-color: rgb(22, 25, 5);
+    padding: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 h1 {
-    color:darkorange
+    text-align: center;
+    color:rgb(22, 25, 5)
 }
 
 p {
-    color:darkgreen
+    margin-left: 6em;
+    text-align: justify;
+    color:rgb(22, 25, 5)
+}
+
+ul {
+    margin-left: 7em;
+    list-style-type: none;
+}
+
+button {
+    margin-left: 7em;
+    border-radius: 2.5px;
+    width: 250px;
+    height: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }

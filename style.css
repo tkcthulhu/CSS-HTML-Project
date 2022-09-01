@@ -3,24 +3,24 @@ body {
     border-width: 10px;
     border-style: dashed double;
     border-color: rgb(22, 25, 5);
-    padding: 25px;
+    padding: 35px;
     font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     color:rgb(22, 25, 5);
     text-decoration: underline;
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
     color:rgb(22, 25, 5);
     text-decoration: underline;
 }
 
 p {
-    margin-left: 6em;
+    margin-left: 5em;
     text-align: justify;
     color:rgb(22, 25, 5);
 }

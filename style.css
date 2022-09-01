@@ -9,13 +9,20 @@ body {
 
 h1 {
     text-align: center;
-    color:rgb(22, 25, 5)
+    color:rgb(22, 25, 5);
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    color:rgb(22, 25, 5);
+    text-decoration: underline;
 }
 
 p {
     margin-left: 6em;
     text-align: justify;
-    color:rgb(22, 25, 5)
+    color:rgb(22, 25, 5);
 }
 
 ul {

@@ -61,3 +61,10 @@ img {
 #GIFs {
     text-align: center;
 }
+
+.header {
+    padding: 50px;
+    text-align: center;
+    background-color: rgba(79, 77, 77, 0.169);
+    font-size: 30px;
+}

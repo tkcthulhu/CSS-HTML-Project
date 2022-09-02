@@ -27,6 +27,7 @@ p {
 ul {
     margin-left: 2em;
     list-style-type: none;
+    font-weight: bold;
 }
 
 button {
@@ -36,6 +37,13 @@ button {
     height: 30px;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(79, 77, 77, 0.169);
+}
+
+img {
+    border-style: solid;
+    border-color: rgb(22, 25, 5);
+    border-radius: 2.5px;
 }
 
 .butt {
@@ -47,5 +55,9 @@ button {
 }
 
 #images {
+    text-align: center;
+}
+
+#GIFs {
     text-align: center;
 }

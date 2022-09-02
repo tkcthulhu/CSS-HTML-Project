@@ -8,33 +8,44 @@ body {
 }
 
 h1 {
-    text-align: left;
+    text-align: center;
     color:rgb(22, 25, 5);
     text-decoration: underline;
 }
 
 h2 {
-    text-align: left;
+    text-align: center;
     color:rgb(22, 25, 5);
     text-decoration: underline;
 }
 
 p {
-    margin-left: 5em;
     text-align: justify;
     color:rgb(22, 25, 5);
 }
 
 ul {
-    margin-left: 7em;
+    margin-left: 2em;
     list-style-type: none;
 }
 
 button {
-    margin-left: 7em;
+    margin: auto;
     border-radius: 2.5px;
     width: 250px;
     height: 30px;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.butt {
+    text-align: center;
+}
+
+#puzzle {
+    text-align: center;
+}
+
+#images {
+    text-align: center;
 }
